@@ -1,1 +1,1 @@
-This file contains all data that is used in this project except for Florida Health Department's beach water test data. Since FHD's data is not public
+This file contains all data used in this project except for Florida Health Department's beach water test data. Since FHD's data is not public, we are going to upload it here if/when proper consent is given by FHD.
